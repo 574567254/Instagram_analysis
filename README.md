@@ -9,5 +9,5 @@ This project aims to help Aritzia increase engagement on their Instagram page, b
 - Analyze what types of image will gain more engagement and make suggestions. 
 
 
-#### See Instagram Analysis Jupyter Notebook for detailed analysis
-#### All the external data used and outputs of the project are in the data_used&output folder
+#### See [Instagram Analysis](https://github.com/574567254/Instagram_analysis/blob/2a0e8bb0776e54ee0a67e16112338b4099b0fdfe/Instagram_analysis.ipynb) Jupyter Notebook for detailed analysis
+#### All the external data used and outputs of the project are in the [data_used&output](https://github.com/574567254/Instagram_analysis/blob/2a0e8bb0776e54ee0a67e16112338b4099b0fdfe/data_used&Output) folder
